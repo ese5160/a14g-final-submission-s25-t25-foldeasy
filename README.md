@@ -5,7 +5,7 @@
     * Team Name: FoldEasy
     * Team Members: Chirag Satapathy, Sanskriti Binani
     * Github Repository URL: https://github.com/ese5160/a14g-final-submission-s25-t25-foldeasy
-    * Description of test hardware: (development boards, sensors, actuators, laptop + OS, etc) 
+    * Description of test hardware: SAMW25 XPlained Board, HP Omen, Atomizer, Light Sensor, IR Sensor, SG92 Servo Motors, Water Level Sensor
 
 ## 1. Video Presentation
 
@@ -81,7 +81,9 @@ Moving forward, we plan to enhance FOLDEASY with the following improvements:
 
 ### Takeaways from ESE 5160
 
-The ESE 5160 course provided us with invaluable knowledge and skills that transformed our understanding of embedded systems development. Through hands-on experience with PCB design, we mastered the entire process from initial schematic capture to final manufacturing considerations, giving us the confidence to create custom hardware solutions for complex problems. The integration of Node-RED into our project workflow enabled us to rapidly develop intuitive IoT dashboards and user interfaces with minimal development overhead, significantly enhancing the usability of our embedded system. Throughout the course, we refined our debugging methodologies, learning to systematically approach complex embedded systems issues through tools like protocol analyzers and implementing efficient data structures such as circular buffers. Our practical work with signal integrity challenges taught us to identify and mitigate potential issues through proper PCB layout techniques and strategic component selection. Perhaps most significantly, our deep dive into RTOS architecture using FreeRTOS provided us with a framework for designing reliable, performant multi-tasking systems, allowing us to properly structure embedded applications for real-world deployment scenarios.
+The ESE 5160 course provided us with invaluable knowledge and skills that transformed our understanding of embedded systems development. Through hands-on experience with PCB design, we mastered the entire process from initial schematic capture to final manufacturing considerations, giving us the confidence to create custom hardware solutions for complex problems. The integration of Node-RED into our project workflow enabled us to rapidly develop intuitive IoT dashboards and user interfaces with minimal development overhead, significantly enhancing the usability of our embedded system.
+
+Throughout the course, we refined our debugging methodologies, learning to systematically approach complex embedded systems issues through tools like protocol analyzers and implementing efficient data structures such as circular buffers. Our practical work with signal integrity challenges taught us to identify and mitigate potential issues through proper PCB layout techniques and strategic component selection. Perhaps most significantly, our deep dive into RTOS architecture using FreeRTOS provided us with a framework for designing reliable, performant multi-tasking systems, allowing us to properly structure embedded applications for real-world deployment scenarios.
 
 
 ## 3. Hardware & Software Requirements
