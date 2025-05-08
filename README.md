@@ -154,25 +154,34 @@ Moving forward, we plan to enhance FOLDEASY with the following improvements:
 
 ### Node-RED Dashboard
 
+http://135.119.172.220:1880/ui/#!/0?socketid=GrPmG0A85WRLg9utAABT
 
+![alt text](node-red_dashboard.png)
 
 ### Node-RED Backened
 
-
+![alt text](node-red_backend.png)
 
 ### Final Block Diagram
 
-
+![alt text](<block diagram final.png>)
 
 ## Codebase
 
 - **Final embedded C firmware codebases** - 
 
-- **Node-RED dashboard code** - 
+https://github.com/ese5160/final-project-t25-foldeasy/tree/main/Application
+
+https://github.com/ese5160/final-project-t25-foldeasy/tree/main/Bootloader
+
+- **Node-RED dashboard code** - [JSON file](flows.json)
 
 - **Links to any other software required for the functionality of your device**
 
     - **Schematic Link** - https://upenn-eselabs.365.altium.com/designs/A005D623-9643-4D3A-A44D-C3FE70C3510C 
+
+    - **Project Link** - https://drive.google.com/file/d/1vTpkGeL2Uh_pKV8Ku1coR16XFbSWJvqz/view?usp=sharing
+
 
 
 
